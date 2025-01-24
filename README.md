@@ -18,3 +18,8 @@ console.log(atleta.obtemIdadeAtleta());
 console.log(atleta.obtemPesoAtleta());
 console.log(atleta.obtemIMC());
 console.log(atleta.obtemMediaValida());
+
+Como executar  
+Clone o repositório:  
+git clone https://github.com/seu_usuario/dados-atletas.git  
+Abra o arquivo dados-atletas.js e execute-o em um ambiente JavaScript.
