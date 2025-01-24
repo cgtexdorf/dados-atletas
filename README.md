@@ -18,7 +18,8 @@ console.log(atleta.obtemIdadeAtleta());
 console.log(atleta.obtemPesoAtleta());
 console.log(atleta.obtemIMC());
 console.log(atleta.obtemMediaValida());
-**` ``` `** 
+
+```
 
 Como executar  
 Clone o repositório:  
