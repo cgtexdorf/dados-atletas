@@ -1,4 +1,4 @@
-# Dados-atletas
+# Dados Atletas
 Repositório criado para publicação do Projeto de certificação 2 - Dados dos atletas | Curso Devstart
 
 Este projeto é uma aplicação que recebe informações de um atleta, como nome, idade, peso, altura e notas dos jurados. A aplicação calcula a categoria, o IMC e a média válida do atleta, e exibe essas informações de maneira organizada.
